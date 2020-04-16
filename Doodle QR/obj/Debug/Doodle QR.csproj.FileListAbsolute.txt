@@ -1,0 +1,19 @@
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Guna.UI.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\QRCoder.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\System.Drawing.Common.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\XanderUI.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Guna.UI.pdb
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle_QR.Home.resources
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle_QR.Properties.Resources.resources
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle QR.csproj.GenerateResource.cache
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle QR.csproj.CopyComplete
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle QR.csprojAssemblyReference.cache
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle_QR.DecodeData.resources
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle_QR.AboutF.resources
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Doodle Code 4.exe.config
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Doodle Code 4.exe
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\bin\Debug\Doodle Code 4.pdb
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle Code 4.exe
+C:\Users\HEART\source\repos\Doodle QR\Doodle QR\obj\Debug\Doodle Code 4.pdb
