@@ -1,3 +1,5 @@
+![Made with c#](https://lh3.googleusercontent.com/tegUFbt15vIEYHhlP63U5n6aQ71XJAq5RcPiIExaHiAjkoWZ_5oSVfB4owL3vjmND8-P6w=s170)
+
 # Doodle Code
 Create awesome Qr code in just one click! You can Both Encode and Decode Qr codes with the maximum accuracy.
 To encode QR code you just need to enter the text and click enter. And your Qr code will be visible to you.
