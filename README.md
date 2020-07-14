@@ -5,5 +5,13 @@ You can save and print the Qr code you created. To decode Qr code you don't need
 the image. It supports .png as well as .jpg. If you want you can also add any other formats.
 
 It has 2 main versions,you can download it from :https://tiny.cc/doodlecode
-
 But the source code is only availabe for the latest version. 
+
+<br>
+<br>
+
+> ## Additional Features
+> * Print and preview
+> * Output in two formats (.png/.jpg)
+> * Search with google with the decoded string
+> * Save as .txt(Plain text) | Decoded string
